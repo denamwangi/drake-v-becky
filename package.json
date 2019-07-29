@@ -1,0 +1,25 @@
+{
+  "name": "drake-v-becky",
+  "version": "0.0.1",
+  "description": "A space invaders-esque game in p5.js",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denamwangi/drake-v-becky.git"
+  },
+  "keywords": [
+    "p5.js"
+  ],
+  "author": "dena mwangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denamwangi/drake-v-becky/issues"
+  },
+  "homepage": "https://github.com/denamwangi/drake-v-becky#readme",
+  "dependencies": {
+    "p5": "^0.9.0"
+  }
+}
